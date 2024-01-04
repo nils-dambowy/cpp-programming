@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\CPP\SMFL\Project1\Project1\main.cpp(160,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(160,61): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(168,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(168,61): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(174,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(174,59): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(180,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(180,59): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(225,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\CPP\SMFL\Project1\Project1\main.cpp(225,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Project1.vcxproj -> D:\CPP\SMFL\Project1\x64\Debug\Project1.exe
